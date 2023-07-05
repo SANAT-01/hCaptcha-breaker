@@ -1,0 +1,1 @@
+['motorbus', 'bicycle', 'airplane', 'truck', 'boat', 'motorcycle', 'seaplane', 'fire_hydrant', 'traffic_light']
